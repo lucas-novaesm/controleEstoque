@@ -7,6 +7,9 @@
 
 Este projeto é uma aplicação web para gerenciamento de estoque de produtos. O sistema permite que os usuários realizem operações de criação, leitura, atualização e exclusão (CRUD) de produtos e fabricantes, facilitando o controle e o fluxo de itens em estoque.
 
+![diagrama](https://github.com/user-attachments/assets/d4a233d3-955f-4e85-8e2b-cd9fd35e1566)
+
+
 ## ✅ Funcionalidades
 
 - **Gerenciamento de Produtos**: Adicionar, atualizar, visualizar e remover produtos do estoque.
