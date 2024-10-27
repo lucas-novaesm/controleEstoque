@@ -1,7 +1,6 @@
 # 🏷️ Controle de Estoque de Produtos
 
-![API](https://github.com/user-attachments/assets/b88875c3-e759-4b98-9b37-16308ff39083)
-
+![API](https://github.com/user-attachments/assets/41d4e5a4-72ee-4bfd-b95e-cad01b6a1b01)
 
 ## 📜 Descrição do Projeto
 
