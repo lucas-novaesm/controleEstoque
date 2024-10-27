@@ -1,6 +1,7 @@
 # 🏷️ Controle de Estoque de Produtos
 
-![Imagem da API](url-da-imagem-da-api-aqui) <!-- Substitua pela imagem da API -->
+![API](https://github.com/user-attachments/assets/b88875c3-e759-4b98-9b37-16308ff39083)
+
 
 ## 📜 Descrição do Projeto
 
